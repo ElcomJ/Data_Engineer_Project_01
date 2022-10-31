@@ -47,4 +47,4 @@ diferença entre o total de vendas desses anos.
 ## Arquivos de Resposta:
 
 > Os scripts de cada atividade podem ser encontrado
-[Aqui](https://github.com/ElcomJ/Data_Engineer_Project_01/tree/master/Scripts)
+[**Aqui**](https://github.com/ElcomJ/Data_Engineer_Project_01/tree/master/Scripts)
