@@ -1,0 +1,12 @@
+COPY CATEGORIES
+FROM 'YOUR_S3_CSV_ARCHIVE_PATH'
+CREDENTIALS 'aws_access_key_id=YOUR_ACCESS_KEY_ID;aws_secret_access_key=YOUR_SECRET_ACCESS_KEY'
+DELIMITER ';'
+REGION 'YOUR_BUCKET_REGION'
+IGNOREHEADER 1
+DATEFORMAT AS 'YYYY-MM-DD HH:MI:SS'
+REMOVEQUOTES;
+
+
+PS: Onde estiver escrito 'YOUR_ACCESS_KEY_ID' ou iniciar com 'YOUR' você deve inserir os seus
+dados respectivos a cada campo.
