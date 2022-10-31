@@ -23,7 +23,7 @@ Database:
  - Utilizar o script de [**Copy**](https://github.com/ElcomJ/Data_Engineer_Project_01/blob/master/Copy_Script.txt) para inserir os dados do S3 nas tabelas do Northwind.
  - Realizar uma Querie de teste para saber se os dados foram inseridos corretamente.
  - Criar tabelas com os resultados da perguntas de negócios.
- - Cria dashboards no [**Looker Studio**](https://datastudio.google.com/) com os resultados.
+ - Criar dashboards no [**Looker Studio**](https://datastudio.google.com/) com os resultados.
 
 
 ![Ambiente](Images/setp_by_step.drawio.png)
