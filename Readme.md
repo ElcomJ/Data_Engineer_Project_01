@@ -1,6 +1,7 @@
 # Project 01 - Datawarehouse Northwind
 
-> Resolução de problemas empresariais utilizando AWS Cloud desde o armazenamento local, até à visualização no painel de controlo.
+> Resolução de problemas empresariais utilizando AWS Cloud desde o armazenamento local, até à
+visualização no Dashboard.
 
 ## Objetivo:
 
@@ -46,5 +47,5 @@ diferença entre o total de vendas desses anos.
 
 ## Arquivos de Resposta:
 
-> Os scripts de cada atividade podem ser encontrado
+> Os scripts de cada atividade podem ser encontrados
 [**Aqui**](https://github.com/ElcomJ/Data_Engineer_Project_01/tree/master/Scripts)
