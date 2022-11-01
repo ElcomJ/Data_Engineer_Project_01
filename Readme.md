@@ -13,8 +13,8 @@ Relacional DB Schema:
 
 ## Preparação do Ambiente de Trabalho
 
-> Abaixo estara o passo a passo desde a preparação do ambiente até a criação das tabelas no
-Database:
+> Abaixo estara o passo a passo desde a preparação do ambiente até a criação do Dashboard no
+Looker Studio:
 
  - Criação do Cluster no AWS Redshift.
  - Criação do Datawarehouse Northwind.
