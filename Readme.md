@@ -1,11 +1,11 @@
 # Project 01 - Datawarehouse Northwind
 
-> Resolução de problemas empresariais utilizando AWS Cloud desde o armazenamento local, até à
+> Resolução de problemas empresariais utilizando AWS Cloud desde o armazenamento local, até a
 visualização no Dashboard.
 
 ## Objetivo:
 
-> Responder perguntas de negócios a parte de requisições e problemas de uma empresa fictícia,
+> Responder perguntas de negócios a partir de requisições e problemas de uma empresa fictícia,
 utilizando o banco de dados da empresa.
 
 Relacional DB Schema:
@@ -14,7 +14,7 @@ Relacional DB Schema:
 
 ## Preparação do Ambiente de Trabalho
 
-> Abaixo estara o passo a passo desde a preparação do ambiente até a criação do Dashboard no
+> Abaixo estará o passo a passo desde a preparação do ambiente até a criação do Dashboard no
 Looker Studio:
 
  - Criação do Cluster no AWS Redshift.
